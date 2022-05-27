@@ -1,3 +1,3 @@
 # kokoa clone 2020 update
 
-CSS got a
+HTML & CSS got a
